@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/daily-book-website/static/css/main.ab8d8e7d.chunk.css",
+    "main.js": "/daily-book-website/static/js/main.e93399de.chunk.js",
+    "main.js.map": "/daily-book-website/static/js/main.e93399de.chunk.js.map",
+    "runtime-main.js": "/daily-book-website/static/js/runtime-main.ecdda3ad.js",
+    "runtime-main.js.map": "/daily-book-website/static/js/runtime-main.ecdda3ad.js.map",
+    "static/js/2.1a38013a.chunk.js": "/daily-book-website/static/js/2.1a38013a.chunk.js",
+    "static/js/2.1a38013a.chunk.js.map": "/daily-book-website/static/js/2.1a38013a.chunk.js.map",
+    "index.html": "/daily-book-website/index.html",
+    "static/css/main.ab8d8e7d.chunk.css.map": "/daily-book-website/static/css/main.ab8d8e7d.chunk.css.map",
+    "static/js/2.1a38013a.chunk.js.LICENSE.txt": "/daily-book-website/static/js/2.1a38013a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecdda3ad.js",
+    "static/js/2.1a38013a.chunk.js",
+    "static/css/main.ab8d8e7d.chunk.css",
+    "static/js/main.e93399de.chunk.js"
+  ]
+}
